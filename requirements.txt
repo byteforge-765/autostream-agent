@@ -1,0 +1,4 @@
+# Requires Python 3.9+
+langgraph==0.2.28
+google-genai>=1.0.0
+python-dotenv==1.0.1

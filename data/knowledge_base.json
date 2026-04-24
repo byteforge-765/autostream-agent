@@ -1,0 +1,80 @@
+{
+  "company": {
+    "name": "AutoStream",
+    "tagline": "Automated video editing tools for content creators",
+    "description": "AutoStream is a SaaS platform that helps YouTube, Instagram, and TikTok creators automate their video editing workflow using AI — from auto-cuts and transitions to captions and color grading.",
+    "founded": "2022",
+    "support_email": "support@autostream.io",
+    "website": "https://autostream.io"
+  },
+  "plans": [
+    {
+      "name": "Basic",
+      "price_monthly": 29,
+      "price_annual": 249,
+      "features": [
+        "10 videos per month",
+        "720p resolution export",
+        "Auto-cut and trim",
+        "Basic transitions library",
+        "Email support (48hr response)"
+      ],
+      "best_for": "Hobbyists and new creators just starting out"
+    },
+    {
+      "name": "Pro",
+      "price_monthly": 79,
+      "price_annual": 699,
+      "features": [
+        "Unlimited videos per month",
+        "4K resolution export",
+        "AI-powered auto captions",
+        "Advanced transitions and effects library",
+        "Priority 24/7 live support",
+        "Custom branding and watermarks",
+        "Multi-platform export (YouTube, Instagram, TikTok)"
+      ],
+      "best_for": "Professional creators and growing channels"
+    }
+  ],
+  "policies": [
+    {
+      "topic": "Refund Policy",
+      "detail": "Refunds are available within the first 7 days of purchase. No refunds are issued after 7 days from the billing date."
+    },
+    {
+      "topic": "Support Availability",
+      "detail": "24/7 live support is available exclusively for Pro plan subscribers. Basic plan users receive email support with a 48-hour response time."
+    },
+    {
+      "topic": "Video Storage",
+      "detail": "Edited videos are stored in your AutoStream dashboard for 30 days. Pro users get unlimited cloud storage."
+    },
+    {
+      "topic": "Free Trial",
+      "detail": "We offer a 7-day free trial on the Pro plan. No credit card required to start the trial."
+    },
+    {
+      "topic": "Plan Upgrade / Downgrade",
+      "detail": "You can upgrade or downgrade your plan at any time. Upgrades take effect immediately; downgrades apply at the next billing cycle."
+    },
+    {
+      "topic": "Supported Platforms",
+      "detail": "AutoStream supports content creators on YouTube, Instagram, TikTok, Facebook, and Twitter/X."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I try AutoStream before paying?",
+      "answer": "Yes! We offer a 7-day free trial on the Pro plan with no credit card required."
+    },
+    {
+      "question": "What happens if I exceed my video limit on the Basic plan?",
+      "answer": "You will be notified when you reach 10 videos. You can either wait for the next billing cycle or upgrade to Pro for unlimited videos."
+    },
+    {
+      "question": "Do you support team or agency accounts?",
+      "answer": "Team and agency plans are coming soon. Please contact sales@autostream.io for early access."
+    }
+  ]
+}
