@@ -199,7 +199,7 @@ This approach requires no changes to the core agent logic — only the I/O layer
 | Component | Technology |
 |---|---|
 | Agent Framework | LangGraph 0.2 |
-| LLM | Google Gemini 2.5 Flash Preview |
+| LLM | Google Gemini 3 Flash Preview |
 | Knowledge Base | Local JSON (RAG) |
 | Language | Python 3.9+ |
 | Environment | python-dotenv |
