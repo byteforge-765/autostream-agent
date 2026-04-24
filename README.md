@@ -2,7 +2,7 @@
 
 A conversational AI agent built for **AutoStream** — a fictional SaaS platform offering automated video editing tools for content creators. This agent handles product queries, detects high-intent users, and captures qualified leads using a structured agentic workflow.
 
-Built with **LangGraph**, **Google Gemini 2.5 Flash Preview**, and a local RAG pipeline.
+Built with **LangGraph**, **Google Gemini 3 Flash Preview**, and a local RAG pipeline.
 
 ---
 
